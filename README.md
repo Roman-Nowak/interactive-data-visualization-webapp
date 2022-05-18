@@ -25,6 +25,7 @@
 
 # LIBRARIES
 * twitter_scraper_selenium https://github.com/shaikhsajid1111/twitter-scraper-selenium
+* langdetect - https://github.com/Mimino666/langdetect
 * dash - https://plotly.com/dash/
 * plotly - https://plotly.com/
 * wordcloud - https://amueller.github.io/word_cloud/
