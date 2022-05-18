@@ -6,6 +6,7 @@
 # HOW TO USE THIS PROJECT
 * You can run it locally by cloning the repo and running the code in jupyter notebook or jupyter lab.
 * Make sure you install the dependencies before running the project.
+* **You will also have to update the paths in both the jupyter notebooks.**
 
 # CONTENTS
 * twitter_webscraping.ipynb
@@ -20,6 +21,7 @@
 
 ## Datasets
 * twitter_data is a directory with a file containing 1000 tweets with #LUNA scraped from twitter
+    * although after cleaning and filtering the data the resulting dataset contains 457 tweets.
 
 # LIBRARIES
 * if you want to run this from jupyter notebook or jupyter lab you have to install jupyter-dash https://github.com/plotly/jupyter-dash
