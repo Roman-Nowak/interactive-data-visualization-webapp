@@ -24,12 +24,12 @@
     * although after cleaning and filtering the data the resulting dataset contains 457 tweets.
 
 # LIBRARIES
-* if you want to run this from jupyter notebook or jupyter lab you have to install jupyter-dash https://github.com/plotly/jupyter-dash
 * twitter_scraper_selenium https://github.com/shaikhsajid1111/twitter-scraper-selenium
 * dash - https://plotly.com/dash/
 * plotly - https://plotly.com/
 * wordcloud - https://amueller.github.io/word_cloud/
 * Pillow - https://pillow.readthedocs.io/en/stable/
+* if you want to run this from jupyter notebook or jupyter lab you have to install jupyter-dash https://github.com/plotly/jupyter-dash
 
 # TODO
 * enlarge the twitter-luna dataset
