@@ -4,15 +4,19 @@
 * The main purpose is to expose the user to the beauty of data visualization by letting them interact with the visualizations.
 
 # HOW TO USE THIS PROJECT
-* You can run it locally by cloning the repo and running the code in jupyter notebook or jupyter lab
-* Make sure you install the dependencies before running the project
+* You can run it locally by cloning the repo and running the code in jupyter notebook or jupyter lab.
+* Make sure you install the dependencies before running the project.
 
 # CONTENTS
 * twitter_webscraping.ipynb
-    * code which scrapes twitter for #LUNA
+    * Code which scrapes twitter for #LUNA
     * Data exploration
     * Data cleaning
     * Wordcloud plots
+* DASH_WEBAPP.ipynb
+    * the code which is rendered into the website
+    * includes all plots and interactive elements
+    * written mainly with dash
 
 ## Datasets
 * twitter_data is a directory with a file containing 1000 tweets with #LUNA scraped from twitter
@@ -28,9 +32,13 @@
 # TODO
 * enlarge the twitter-luna dataset
 * include storytelling elements - "the data should tell a story"
-    * include more interaction options
-    * include more different plots
+    * first show the plot of the price movement of LUNA
+    * then positive/negative keyword frequency on a bar plot
+    * the wordclouds
+* include more interaction options
+    * update the UI
 * create / scrape other datasets
+* add a better graphical design
 
 # AUTHORS
 * Agata Serafin - graphical & content design
