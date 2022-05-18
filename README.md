@@ -1,6 +1,11 @@
 # PROJECT DESCRIPTION
+![plot](./INTERACTIVE_DATA_VISUALIZATION.png)
 * This is a webapp written with dash created as a project for a Usability Engineering & User experience Design class at the Jagiellonian University (within the Cognitive Science)
 * The main purpose is to expose the user to the beauty of data visualization by letting them interact with the visualizations.
+
+# HOW TO USE THIS PROJECT
+* You can run it locally by cloning the repo and running the code in jupyter notebook or jupyter lab
+* Make sure you install the dependencies before running the project
 
 # CONTENTS
 * twitter_webscraping.ipynb
