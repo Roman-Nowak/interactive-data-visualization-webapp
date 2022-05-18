@@ -1,6 +1,6 @@
 # PROJECT DESCRIPTION
 ![plot](./INTERACTIVE_DATA_VISUALIZATION.png)
-* This is a webapp written with dash created as a project for a Usability Engineering & User experience Design class at the Jagiellonian University (within the Cognitive Science)
+* This is a webapp written with dash created as a project for a Usability Engineering & User experience Design class at the Jagiellonian University (within the Cognitive Science department).
 * The main purpose is to expose the user to the beauty of data visualization by letting them interact with the visualizations.
 
 # HOW TO USE THIS PROJECT
