@@ -28,5 +28,5 @@
 * create / scrape other datasets
 
 # AUTHORS
-* Roman Nowak
-* Agata Serafin
+* Agata Serafin - graphical & content design
+* Roman Nowak - implementation
