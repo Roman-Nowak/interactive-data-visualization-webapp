@@ -33,14 +33,19 @@
 * if you want to run this from jupyter notebook or jupyter lab you have to install jupyter-dash https://github.com/plotly/jupyter-dash
 
 # TODO
-* enlarge the twitter-luna dataset
+* enlarge the twitter-#luna dataset
+* filter the keywords?
 * include storytelling elements - "the data should tell a story"
-    * first show the plot of the price movement of LUNA
-    * then positive/negative keyword frequency on a bar plot
-    * the wordclouds
+    * ~~first show the plot of the price movement of LUNA~~
+    * ~~then positive/negative keyword frequency on a bar plot~~
+    * Then show **Concordance** and **Collocations**
+    * ~~then wordclouds~~
+    * Display a description of the visualization with each step of the slider
 * include more interaction options
     * update the UI
-* create / scrape other datasets
+        * Right side - interactive controls
+        * Left side - instructions
+* create / scrape / find other datasets
 * add a better graphical design
 
 # AUTHORS
